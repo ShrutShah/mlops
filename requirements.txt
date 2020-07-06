@@ -1,0 +1,11 @@
+pygame
+cmake
+opencv-python
+dlib
+numpy
+scipy
+espeak
+imutils
+argparse
+
+ 
